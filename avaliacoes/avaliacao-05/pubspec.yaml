@@ -1,0 +1,11 @@
+name: dart_rest_alunos
+description: API REST de alunos mockados usando Dart e Shelf
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.2.0
+
+dependencies:
+  shelf: ^1.4.2
+  shelf_router: ^1.1.4
